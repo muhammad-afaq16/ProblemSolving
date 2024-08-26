@@ -1,0 +1,7 @@
+How to rename a commit?
+>> git commit --amend -m "New commit message"
+
+
+
+How to authenticate before pushing a code to remote?
+ssh -T git@github.com-CodeByAfaq
