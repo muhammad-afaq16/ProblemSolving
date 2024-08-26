@@ -4,4 +4,9 @@ How to rename a commit?
 
 
 How to authenticate before pushing a code to remote?
-ssh -T git@github.com-CodeByAfaq
+>> ssh -T git@github.com-CodeByAfaq
+
+
+According to config file you have in your machine you need 
+to update origin locally before every new push?
+>> git remote set-url origin git@github.com-muhammad-afaq16:muhammad-afaq16/ProblemSolving.git
